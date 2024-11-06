@@ -1,0 +1,16 @@
+.friendItem {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.friendItem img {
+  margin-bottom: 20px;
+}
+
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}
